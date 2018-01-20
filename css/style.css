@@ -1,0 +1,28 @@
+body {
+    background-image: url("images/train.jpg");
+    background-color: rgb(68, 168, 255);
+}
+
+.jumbotron {
+    background-color: rgb(41, 41, 41);
+    color: white;
+    opacity: 0.9;
+}
+
+.panel {
+    background-color: rgb(255, 255, 255);
+    color: rgb(31, 7, 7);
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    opacity: 0.9;
+}
+
+.panelBody {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 95%;
+}
